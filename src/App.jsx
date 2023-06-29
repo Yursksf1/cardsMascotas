@@ -31,3 +31,16 @@ function App() {
 }
 
 export default App
+
+// Implementar las funcionalidades para visualizar la informacion de: 
+// - ubicaciones. 
+// - testimonios.
+// para esto, se debe generar dos pestañas nuevas, para visualizar el contenido.
+
+// tecnical detail:
+// 1) Crear las funciones en `generate_data` para popular la informacion. Ejmplo: 
+//    generarUbicaciones () => {# your code is here}  definir la logica para crear informacion que se visualiza en los componente  
+//    generarTestimonios () => {# your code is here}  definir la logica para crear informacion que se visualiza en los componente  
+// 2) Crear los componentes con la respectivo render de informacion. (cambien los iconos, colores del card)
+// 3) Definir la Ruta en APP js
+// 4) Definir el enlace en el Nav 
